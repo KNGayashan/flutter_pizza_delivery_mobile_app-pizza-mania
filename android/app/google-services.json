@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931347592750",
+    "project_id": "login-application-flutterproj",
+    "storage_bucket": "login-application-flutterproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931347592750:android:a9341d7c65ebb0291bd1bf",
+        "android_client_info": {
+          "package_name": "com.example.pizza_mania"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCybn-qg74uba5ATKoKkcmhWzP2gYboB58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
